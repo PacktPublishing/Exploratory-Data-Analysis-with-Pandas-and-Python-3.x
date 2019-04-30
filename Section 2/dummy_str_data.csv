@@ -1,0 +1,6 @@
+Sno,Device_name,Device_description,Single-Use
+1,Synringe, Used to inject medicine, True
+2,Ventilator, Used to help patients breath, False
+3,Surgical Gloves,,True
+4,Stethescopes,,NA
+5,Vials container,,NA

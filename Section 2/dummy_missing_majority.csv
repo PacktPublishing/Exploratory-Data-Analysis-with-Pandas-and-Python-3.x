@@ -1,0 +1,10 @@
+Sno,Name,Age,Height(cm),Marks(100),Country, City
+1,John,25,160,80,USA,New York
+2,Jimmy,26,163,,UK,London
+3,Felicia,28,154,,USA,Miami
+4,Sophia,,143,,
+5,Bob,,,,
+6,Billy,30,156,,France,Paris
+7,Kate,31,160,,Italy,Rome
+8,Will,29,,,Russia,Moscow
+9,Scott,,148,,
